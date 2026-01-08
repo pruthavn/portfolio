@@ -28,7 +28,7 @@ function Hero() {
                 </a>
             </span>
             <p className={styles.description}>
-              Front-end React Developer with Passion
+              Full-Stack Developer with Passion
             </p >
             <a href="https://drive.google.com/file/d/1UvOJ9oKueTwLV1dZEyy0GNJxoe-_i7xi/view?usp=sharing" target='_blank'>
                 <button className='hover' >
