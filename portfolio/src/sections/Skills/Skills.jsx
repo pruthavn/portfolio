@@ -14,7 +14,6 @@ function Skills() {
             <SkillList src={checkMarkIcon} skill="Tailwind CSS"/>
             <hr />
             <SkillList src={checkMarkIcon} skill="C (Basic)"/>
-            <SkillList src={checkMarkIcon} skill="C++ (Basic)"/>
             <SkillList src={checkMarkIcon} skill="Python"/>
             <SkillList src={checkMarkIcon} skill="SQL"/>
             <hr />
