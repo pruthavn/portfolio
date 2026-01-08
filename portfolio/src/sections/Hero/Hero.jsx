@@ -18,7 +18,7 @@ function Hero() {
             <br />
             Nawghare
             </h1>
-            <h2>Frontend Developer</h2>
+            <h2>Full-Stack Developer</h2>
             <span>
                 <a href="https://github.com/" target="_blank">
                 <img src={githubIcon} alt="Github Icon"/>
@@ -30,7 +30,7 @@ function Hero() {
             <p className={styles.description}>
               Front-end React Developer with Passion
             </p >
-            <a href={CV} target='_blank'>
+            <a href="https://drive.google.com/file/d/1UvOJ9oKueTwLV1dZEyy0GNJxoe-_i7xi/view?usp=sharing" target='_blank'>
                 <button className='hover' >
                     Resume
                 </button>
