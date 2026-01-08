@@ -17,9 +17,9 @@ function Projects() {
             h3="ToDo App"
             p="Task Manager WebApp"
             />
-            <ProjectCard src={docsImg} link='https://github.com/pruthavn/Mini-Docs-App.gitt'
-            h3="Mini Docs App"
-            p="Mini Document Manager"
+            <ProjectCard src={docsImg} link='https://github.com/pruthavn/Weather-App.git'
+            h3="Weather App"
+            p="Real-Time Weather at a Glance"
             />
         </div>
     </section>
