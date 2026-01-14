@@ -1,5 +1,4 @@
 import styles from './HeroStyles.module.css'
-// import herImg from '../../assets/hero-img.png'
 import herImg from '../../assets/her-img.jpg'
 import githubIcon from '../../assets/github-dark.svg'
 import linkedinIcon from '../../assets/linkedin-dark.svg'

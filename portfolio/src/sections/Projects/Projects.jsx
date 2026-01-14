@@ -9,11 +9,11 @@ function Projects() {
     <section id='projects' className={styles.container}>
         <h1 className='sectionTitle'>Projects</h1>
         <div className={styles.projectsContainer}>
-            <ProjectCard src={twoGoodImg} link='https://github.com/pruthavn/two-good-co.git'
+            <ProjectCard src={twoGoodImg} link='https://two-good-co-replica.netlify.app'
             h3="Two-Good-Co"
             p="Awwwards Replica"
             />
-            <ProjectCard src={todoImg} link='https://github.com/pruthavn/Todo-App.git'
+            <ProjectCard src={todoImg} link='https://todo-focus-webapp.netlify.app'
             h3="ToDo App"
             p="Task Manager WebApp"
             />
