@@ -2,7 +2,8 @@ import styles from './HeroStyles.module.css'
 import herImg from '../../assets/her-img.jpg'
 import githubIcon from '../../assets/github-dark.svg'
 import linkedinIcon from '../../assets/linkedin-dark.svg'
-import CV from '../public/cv.pdf'
+
+
 
 function Hero() {
   return (
@@ -29,7 +30,7 @@ function Hero() {
             <p className={styles.description}>
               Full-Stack Developer with Passion
             </p >
-            <a href={CV} target='_blank'>
+            <a href="./cv.pdf" target='_blank'>
                 <button className='hover' >
                     Resume
                 </button>
