@@ -29,7 +29,7 @@ function Hero() {
             <p className={styles.description}>
               Full-Stack Developer with Passion
             </p >
-            <a href="/cv.pdf" target='_blank'>
+            <a href="cv.pdf" target='_blank'>
                 <button className='hover' >
                     Resume
                 </button>
