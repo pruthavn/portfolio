@@ -17,7 +17,7 @@ function Hero() {
             <br />
             Nawghare
             </h1>
-            <h2>Frontend Developer</h2>
+            <h2>Fullstack Developer</h2>
             <span>
                 <a href="https://github.com/" target="_blank">
                 <img src={githubIcon} alt="Github Icon"/>
@@ -27,7 +27,7 @@ function Hero() {
                 </a>
             </span>
             <p className={styles.description}>
-              Front-end React Developer with Passion
+              Full-Stack Developer with Passion
             </p >
             <a href={CV} target='_blank'>
                 <button className='hover' >
